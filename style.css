@@ -1,4 +1,9 @@
 /* CSS Reset */
+body{
+    position: absolute;
+    overflow: hidden;
+}
+
 *{
     margin: 0;
     padding: 0;
