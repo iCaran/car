@@ -1,9 +1,9 @@
-/* CSS Reset */
 body{
     position: absolute;
     overflow: hidden;
 }
 
+/* CSS Reset */
 *{
     margin: 0;
     padding: 0;
